@@ -1,7 +1,7 @@
 <?php
 
-$con = mysqli_connect("sql208.epizy.com","epiz_27226688","ukBmSpnui6");
+$con = mysqli_connect("localhost","id15442253_siddu","3+FR=vDC}>G2LKKO");
 
-mysqli_select_db($con, "epiz_27226688_sparksbank");
+mysqli_select_db($con, "id15442253_sparks24");
 
 ?>
